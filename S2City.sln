@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S2City", "Cloud Security Assessment\S2City.csproj", "{B09C2FE8-D1C3-451E-87F3-321A01192E88}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "S2City.Azure", "S2City.Azure\S2City.Azure.ccproj", "{696DE9F3-AA75-44FD-B6B6-CE13EE68B3BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B09C2FE8-D1C3-451E-87F3-321A01192E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09C2FE8-D1C3-451E-87F3-321A01192E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09C2FE8-D1C3-451E-87F3-321A01192E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09C2FE8-D1C3-451E-87F3-321A01192E88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{696DE9F3-AA75-44FD-B6B6-CE13EE68B3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696DE9F3-AA75-44FD-B6B6-CE13EE68B3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696DE9F3-AA75-44FD-B6B6-CE13EE68B3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696DE9F3-AA75-44FD-B6B6-CE13EE68B3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
